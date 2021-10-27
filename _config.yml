@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Byoungmo is Growing!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Byoungmo Koo"
+name                     : "병모 Notepad"
 description              : "An amazing website."
 url                      : "https://Koo-BM.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
